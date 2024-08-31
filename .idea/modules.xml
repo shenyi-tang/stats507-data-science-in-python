@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../stats506/stats506-computing-methods-and-tools/.idea/stats506-computing-methods-and-tools.iml" filepath="$PROJECT_DIR$/../../stats506/stats506-computing-methods-and-tools/.idea/stats506-computing-methods-and-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/stats507-data-science-in-python.iml" filepath="$PROJECT_DIR$/.idea/stats507-data-science-in-python.iml" />
+    </modules>
+  </component>
+</project>
